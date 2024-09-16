@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab2c87a5-13f7-43a3-9e8c-a7b8f25cb938" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2l3oi5SMq1FAIWVGhZHJ88joXYJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.CreateUserServiceTest.executor": "Run",
+    "JUnit.CreateUserServiceTest.testThatAUser_SignUp.executor": "Run",
+    "JUnit.CreateUserServiceTest.testThatAnotherUser_CanSignUp.executor": "Run",
+    "JUnit.CreateUserServiceTest.testThatSameUser_CanSignUpAgain.executor": "Run",
+    "JUnit.MakePaymentPersistenceAdapterTest.executor": "Run",
+    "JUnit.MakePaymentPersistenceAdapterTest.testThatTransactionCan_BeSaved.executor": "Run",
+    "JUnit.MakePaymentsServiceTest.executor": "Run",
+    "JUnit.MakePaymentsServiceTest.initializeTransactionTest.executor": "Run",
+    "JUnit.MakePaymentsServiceTest.testInitializeTransaction.executor": "Run",
+    "Maven.HexagonalArchitectureKudiTrust [clean].executor": "Run",
+    "Maven.HexagonalArchitectureKudiTrust [install].executor": "Run",
+    "Maven.HexagonalArchitectureKudiTrust [package].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.HexagonalArchitectureKudiTrustApplication.executor": "Run",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Dell/Desktop/LearningHexagonalAchitechture",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.kuditrust.hexagonalarchitecturekuditrust.infrastructure.adapters.output.persistence.entity" />
+      <recent name="org.kuditrust.hexagonalarchitecturekuditrust.domain.service.payments" />
+      <recent name="org.kuditrust.hexagonalarchitecturekuditrust.domain.service" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MakePaymentsServiceTest.testInitializeTransaction">
+    <configuration name="MakePaymentPersistenceAdapterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HexagonalArchitectureKudiTrust" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.kuditrust.hexagonalarchitecturekuditrust.infrastructure.adapters.output.persistence.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.kuditrust.hexagonalarchitecturekuditrust.infrastructure.adapters.output.persistence.entity" />
+      <option name="MAIN_CLASS_NAME" value="org.kuditrust.hexagonalarchitecturekuditrust.infrastructure.adapters.output.persistence.entity.MakePaymentPersistenceAdapterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakePaymentPersistenceAdapterTest.testThatTransactionCan_BeSaved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HexagonalArchitectureKudiTrust" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.kuditrust.hexagonalarchitecturekuditrust.infrastructure.adapters.output.persistence.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.kuditrust.hexagonalarchitecturekuditrust.infrastructure.adapters.output.persistence.entity" />
+      <option name="MAIN_CLASS_NAME" value="org.kuditrust.hexagonalarchitecturekuditrust.infrastructure.adapters.output.persistence.entity.MakePaymentPersistenceAdapterTest" />
+      <option name="METHOD_NAME" value="testThatTransactionCan_BeSaved" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakePaymentsServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HexagonalArchitectureKudiTrust" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.kuditrust.hexagonalarchitecturekuditrust.domain.service.payments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.kuditrust.hexagonalarchitecturekuditrust.domain.service.payments" />
+      <option name="MAIN_CLASS_NAME" value="org.kuditrust.hexagonalarchitecturekuditrust.domain.service.payments.MakePaymentsServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakePaymentsServiceTest.initializeTransactionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HexagonalArchitectureKudiTrust" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.kuditrust.hexagonalarchitecturekuditrust.domain.service.payments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.kuditrust.hexagonalarchitecturekuditrust.domain.service.payments" />
+      <option name="MAIN_CLASS_NAME" value="org.kuditrust.hexagonalarchitecturekuditrust.domain.service.payments.MakePaymentsServiceTest" />
+      <option name="METHOD_NAME" value="initializeTransactionTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakePaymentsServiceTest.testInitializeTransaction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HexagonalArchitectureKudiTrust" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.kuditrust.hexagonalarchitecturekuditrust.domain.service.payments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.kuditrust.hexagonalarchitecturekuditrust.domain.service.payments" />
+      <option name="MAIN_CLASS_NAME" value="org.kuditrust.hexagonalarchitecturekuditrust.domain.service.payments.MakePaymentsServiceTest" />
+      <option name="METHOD_NAME" value="testInitializeTransaction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HexagonalArchitectureKudiTrustApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="HexagonalArchitectureKudiTrust" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.kuditrust.hexagonalarchitecturekuditrust.HexagonalArchitectureKudiTrustApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MakePaymentsServiceTest.testInitializeTransaction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab2c87a5-13f7-43a3-9e8c-a7b8f25cb938" name="Changes" comment="" />
+      <created>1724418248390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724418248390</updated>
+      <workItem from="1724418249787" duration="199000" />
+      <workItem from="1724420340732" duration="596000" />
+      <workItem from="1724422041374" duration="15000" />
+      <workItem from="1724422220296" duration="1310000" />
+      <workItem from="1724840290332" duration="2363000" />
+      <workItem from="1724843233359" duration="1168000" />
+      <workItem from="1724844508866" duration="6773000" />
+      <workItem from="1724857123158" duration="692000" />
+      <workItem from="1724857906420" duration="86000" />
+      <workItem from="1724858059157" duration="1249000" />
+      <workItem from="1724859386431" duration="148000" />
+      <workItem from="1724859636545" duration="847000" />
+      <workItem from="1724860602052" duration="2930000" />
+      <workItem from="1724894556453" duration="1579000" />
+      <workItem from="1724896234542" duration="961000" />
+      <workItem from="1724923486976" duration="1903000" />
+      <workItem from="1724927157826" duration="5500000" />
+      <workItem from="1724932737173" duration="2281000" />
+      <workItem from="1724935325128" duration="25000" />
+      <workItem from="1724935700773" duration="136000" />
+      <workItem from="1724935893434" duration="174000" />
+      <workItem from="1724936092668" duration="336000" />
+      <workItem from="1724936712314" duration="1365000" />
+      <workItem from="1724938870262" duration="7568000" />
+      <workItem from="1725007888314" duration="591000" />
+      <workItem from="1725014911691" duration="1436000" />
+      <workItem from="1725016495281" duration="196000" />
+      <workItem from="1725016777718" duration="3268000" />
+      <workItem from="1725030035403" duration="2854000" />
+      <workItem from="1725122158927" duration="165000" />
+      <workItem from="1725122715633" duration="662000" />
+      <workItem from="1725124231934" duration="8649000" />
+      <workItem from="1725211182513" duration="38099000" />
+      <workItem from="1725354085928" duration="18511000" />
+      <workItem from="1725536698005" duration="56000" />
+      <workItem from="1725545692560" duration="159000" />
+      <workItem from="1726468058043" duration="1703000" />
+      <workItem from="1726470094755" duration="132000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
